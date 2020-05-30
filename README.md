@@ -1,33 +1,33 @@
-# Axel Octavio Meinguer Estrada \n
+# Axel Octavio Meinguer Estrada 
 
-\n
-npm i knex -g \n
 
-npm install \n
+npm i knex -g 
 
-knex migrate:latest \n
+npm install 
 
-*websockets \n
-npm i socket.io \n
+knex migrate:latest 
 
-*auto reload \n
-npm install -g nodemon \n
-*se usa para usarlo como ide actualizable \n
- nodemon server.js \n
-\n
-node server.js \n
-\n
-*API \n
-npm install --save pirate-speak \n
-\n
-*correr server \n
-npm start \n
+*websockets 
+npm i socket.io 
 
-npm i mocha \n
-*modificicar package.json en test: 'mocha' \n
+*auto reload 
+npm install -g nodemon 
+*se usa para usarlo como ide actualizable 
+ nodemon server.js 
 
-*pruebas unitarias \n
-*carpeta test \n
+node server.js 
+
+*API 
+npm install --save pirate-speak 
+
+*correr server 
+npm start 
+
+npm i mocha 
+*modificicar package.json en test: 'mocha' 
+
+*pruebas unitarias 
+*carpeta test 
 
 
 
